@@ -29,12 +29,15 @@ Visual Studio Code ou outra IDE de sua preferência.
 🔧 Instalação
 
 Clone o repositório para o seu ambiente local: (git clone https://github.com/Joaososter/UNIVERSIDADE.git)
+
 Abra o projeto no VS Code.
+
 Compile e execute as classes no terminal ou usando a extensão de Java no VS Code.
 
 🛠️ Construído com
 
 Java - Linguagem de programação usada
+
 Visual Studio Code - IDE utilizada para o desenvolvimento
 
 📌 Versão
